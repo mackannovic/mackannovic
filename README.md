@@ -17,7 +17,7 @@ Data Scientist with 10+ years across the public, retail, health and financial se
 
 - 🎓 **MSc Applied Data Science** (Distinction, 86.5%) — Dundalk Institute of Technology
 - 🛠️ Day to day in **Python, SQL, R**, with **Power BI / Tableau** for delivery and **LangChain** for LLM work
-- ⚽ Building a **football analytics consultancy** focused on data-driven recruitment for clubs at the lower end of the market
+- ⚽ Assisting a **football analytics consultancy** focused on data-driven recruitment for clubs at the lower end of the market
 - 📍 Based in Louth, Ireland
 
 ---
